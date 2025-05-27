@@ -1,0 +1,211 @@
+[12-Nov-2023 19:02:26 Africa/Lagos] [CPANELICSIMPORT: Touch file created for support@waveplus.com.ng]
+[12-Nov-2023 19:02:26 Africa/Lagos] PHP Warning:  filesize(): stat failed for /home1/jtigjssr/.cpanel/icals/support@waveplus.com.ng.ics in /usr/local/cpanel/base/3rdparty/roundcube/plugins/cpanelicsimport/cpanelicsimport.php on line 102
+[12-Nov-2023 19:02:26 Africa/Lagos] [CPANELVCFIMPORT: Touch file created for support@waveplus.com.ng]
+[12-Nov-2023 19:02:26 Africa/Lagos] PHP Warning:  filesize(): stat failed for /home1/jtigjssr/.cpanel/vcards/support@waveplus.com.ng.vcf in /usr/local/cpanel/base/3rdparty/roundcube/plugins/cpanelvcfimport/cpanelvcfimport.php on line 81
+[12-Nov-2023 19:02:26 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:02:26 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:02:29 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:02:29 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:03:08 Africa/Lagos] PHP Warning:  Undefined variable $config in /usr/local/cpanel/base/3rdparty/roundcube/plugins/cpanellogout/cpanellogout.php on line 18
+[12-Nov-2023 19:03:08 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /usr/local/cpanel/base/3rdparty/roundcube/plugins/cpanellogout/cpanellogout.php on line 18
+[12-Nov-2023 19:03:08 Africa/Lagos] PHP Deprecated:  strncmp(): Passing null to parameter #1 ($string1) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/plugins/cpanellogout/cpanellogout.php on line 18
+[12-Nov-2023 19:08:52 Africa/Lagos] [CPANELICSIMPORT: Touch file /home1/jtigjssr/.cpanel/icals/.cpanel_ics_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[12-Nov-2023 19:08:52 Africa/Lagos] [CPANELVCFIMPORT: Touch file /home1/jtigjssr/.cpanel/vcards/.cpanel_vcf_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[12-Nov-2023 19:08:53 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:08:53 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:08:56 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:08:56 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:09:01 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:09:01 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:09:06 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:09:06 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:09:53 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 19:09:53 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 20:40:21 Africa/Lagos] [CPANELICSIMPORT: Touch file /home1/jtigjssr/.cpanel/icals/.cpanel_ics_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[12-Nov-2023 20:40:21 Africa/Lagos] [CPANELVCFIMPORT: Touch file /home1/jtigjssr/.cpanel/vcards/.cpanel_vcf_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[12-Nov-2023 20:40:22 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 20:40:22 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 20:40:24 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 20:40:24 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:06:55 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:06:55 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:06:57 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:06:57 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:07:00 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:07:00 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:07:01 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:07:01 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:07:24 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:07:24 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:07:26 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:07:26 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:34:25 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:34:25 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:34:27 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:34:27 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:49:04 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:49:04 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:49:06 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[12-Nov-2023 21:49:06 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 15:49:25 Africa/Lagos] [CPANELICSIMPORT: Touch file /home1/jtigjssr/.cpanel/icals/.cpanel_ics_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[27-Nov-2023 15:49:25 Africa/Lagos] [CPANELVCFIMPORT: Touch file /home1/jtigjssr/.cpanel/vcards/.cpanel_vcf_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[27-Nov-2023 15:49:25 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 15:49:25 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 15:49:27 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 15:49:27 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 21:07:36 Africa/Lagos] [CPANELICSIMPORT: Touch file /home1/jtigjssr/.cpanel/icals/.cpanel_ics_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[27-Nov-2023 21:07:36 Africa/Lagos] [CPANELVCFIMPORT: Touch file /home1/jtigjssr/.cpanel/vcards/.cpanel_vcf_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[27-Nov-2023 21:07:36 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 21:07:36 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 21:07:38 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 21:07:38 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 22:32:44 Africa/Lagos] [CPANELICSIMPORT: Touch file /home1/jtigjssr/.cpanel/icals/.cpanel_ics_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[27-Nov-2023 22:32:44 Africa/Lagos] [CPANELVCFIMPORT: Touch file /home1/jtigjssr/.cpanel/vcards/.cpanel_vcf_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[27-Nov-2023 22:32:44 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 22:32:44 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 22:32:44 Africa/Lagos] [CPANELICSIMPORT: Touch file /home1/jtigjssr/.cpanel/icals/.cpanel_ics_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[27-Nov-2023 22:32:44 Africa/Lagos] [CPANELVCFIMPORT: Touch file /home1/jtigjssr/.cpanel/vcards/.cpanel_vcf_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[27-Nov-2023 22:32:45 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 22:32:45 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 22:32:45 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 22:32:45 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 22:33:46 Africa/Lagos] [CPANELICSIMPORT: Touch file /home1/jtigjssr/.cpanel/icals/.cpanel_ics_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[27-Nov-2023 22:33:46 Africa/Lagos] [CPANELVCFIMPORT: Touch file /home1/jtigjssr/.cpanel/vcards/.cpanel_vcf_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[27-Nov-2023 22:33:46 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 22:33:46 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 22:33:47 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[27-Nov-2023 22:33:47 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[28-Nov-2023 00:38:23 Africa/Lagos] [CPANELICSIMPORT: Touch file /home1/jtigjssr/.cpanel/icals/.cpanel_ics_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[28-Nov-2023 00:38:23 Africa/Lagos] [CPANELVCFIMPORT: Touch file /home1/jtigjssr/.cpanel/vcards/.cpanel_vcf_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[28-Nov-2023 00:38:24 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[28-Nov-2023 00:38:24 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[28-Nov-2023 00:38:26 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[28-Nov-2023 00:38:26 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[28-Nov-2023 00:38:35 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[28-Nov-2023 00:38:35 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[28-Nov-2023 00:39:04 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[28-Nov-2023 00:39:04 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 12:57:29 Africa/Lagos] [CPANELICSIMPORT: Touch file /home1/jtigjssr/.cpanel/icals/.cpanel_ics_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[13-Dec-2023 12:57:29 Africa/Lagos] [CPANELVCFIMPORT: Touch file /home1/jtigjssr/.cpanel/vcards/.cpanel_vcf_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[13-Dec-2023 12:57:30 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 12:57:30 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 12:57:33 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 12:57:33 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 12:58:22 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 12:58:22 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 12:58:42 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 12:58:42 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:26:25 Africa/Lagos] [CPANELICSIMPORT: Touch file /home1/jtigjssr/.cpanel/icals/.cpanel_ics_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[13-Dec-2023 13:26:25 Africa/Lagos] [CPANELVCFIMPORT: Touch file /home1/jtigjssr/.cpanel/vcards/.cpanel_vcf_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[13-Dec-2023 13:26:25 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:26:25 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:26:26 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:26:26 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:26:29 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:26:29 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:26:31 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:26:31 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:27:20 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:27:20 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:27:23 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:27:23 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:27:41 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:27:41 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:27:57 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:27:57 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:27:58 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:27:58 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:28:13 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:28:13 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:29:17 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:29:17 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:29:18 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:29:18 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:29:36 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:29:36 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:31:11 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:31:11 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:31:12 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:31:12 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:31:16 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:31:16 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:32:03 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:32:03 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:32:05 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:32:05 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:32:39 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:32:39 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:38:24 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:38:24 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:38:25 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:38:25 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:38:50 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:38:50 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:39:52 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:39:52 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:39:52 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:39:52 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:39:56 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:39:56 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:41:01 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:41:01 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:41:02 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:41:02 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:41:06 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:41:06 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:43:03 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:43:03 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:43:04 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:43:04 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:43:08 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:43:08 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:44:19 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:44:19 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:44:20 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:44:20 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:47:31 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:47:31 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:47:42 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:47:42 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:47:43 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:47:43 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:47:57 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:47:57 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:52:06 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:52:06 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:52:07 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:52:07 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:52:10 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:52:10 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:53:42 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:53:42 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:53:43 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:53:43 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:53:46 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:53:46 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:55:03 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:55:03 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:55:04 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:55:04 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:55:14 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:55:14 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:55:45 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:55:45 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:56:44 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:56:44 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:56:45 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:56:45 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:56:48 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:56:48 Africa/Lagos] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/bootstrap.php on line 155
+[13-Dec-2023 13:57:51 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:57:51 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:57:52 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:57:52 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:58:00 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 13:58:00 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 15:28:25 Africa/Lagos] [CPANELICSIMPORT: Touch file /home1/jtigjssr/.cpanel/icals/.cpanel_ics_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[13-Dec-2023 15:28:25 Africa/Lagos] [CPANELVCFIMPORT: Touch file /home1/jtigjssr/.cpanel/vcards/.cpanel_vcf_import_support@waveplus.com.ng exists for support@waveplus.com.ng and cpanel_run_once is true, exiting]
+[13-Dec-2023 15:28:26 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 15:28:26 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 15:28:28 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239
+[13-Dec-2023 15:28:28 Africa/Lagos] PHP Warning:  Undefined array key "message" in /usr/local/cpanel/base/3rdparty/roundcube/program/include/rcmail_action.php on line 239

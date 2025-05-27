@@ -1,0 +1,17 @@
+{
+    "name": "Waveplus",
+    "short_name": "Waveplus",
+    "start_url": "/index.php",
+    "background_color": "#6777ef",
+    "description": "Number 1 VTU Site in Nigeria",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "waveplus-icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
